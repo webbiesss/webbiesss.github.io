@@ -27,6 +27,12 @@ body {
     height: 250px;
 }
 
+#footer {
+    margin-top: 60px; 
+    position: relative;
+    z-index: 10;
+}
+
 .heart {
     width: 200px;
     height: 200px;
